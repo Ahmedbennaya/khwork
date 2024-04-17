@@ -1,0 +1,7 @@
+body {
+    background-image: url(/accidental_courtesy_still.webp);
+    background-size: cover; /* Adjusted to cover the entire viewport */
+    background-repeat: no-repeat;
+    display: block;
+    z-index: 1;
+}
